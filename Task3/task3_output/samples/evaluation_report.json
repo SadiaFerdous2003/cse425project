@@ -1,0 +1,8 @@
+{
+    "Perplexity": 4.231923759503137,
+    "Pitch Histogram Similarity": 0.7966,
+    "Rhythm Diversity Score": 0.1781,
+    "Repetition Ratio": 0.0961,
+    "Human Listening Score": "Pending Manual Survey [Score 1-5]",
+    "Genre Control": "Yes (Conditioned by tokens)"
+}

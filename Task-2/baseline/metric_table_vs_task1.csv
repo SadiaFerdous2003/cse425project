@@ -1,0 +1,7 @@
+Metric,LSTM AE (Task 1),VAE (Task 2)
+Training Loss,30.00 (MSE),Dynamic (Recon+KL)
+Rhythm Diversity (↑),0.5818,0.4000
+Repetition Ratio (↓),0.0000,0.0000
+Pitch Difference (↓),1.2999,1.2671
+Human Score (↑),1.32,3.04
+Genre Control,N/A,Probabilistic
