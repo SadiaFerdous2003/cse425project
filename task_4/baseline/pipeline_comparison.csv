@@ -1,0 +1,7 @@
+Model/Task,Perplexity,Rhythm Diversity,Human Score,Generation Type
+Random,N/A,0.10,1.10,Untrained Noise
+Markov Chain,N/A,0.35,2.30,Statistical Lookup
+Task 1 (LSTM AE),N/A,0.58,3.10,Reconstruction Constraints
+Task 2 (VAE),N/A,0.40,3.80,Latent Space Sampling
+Task 3 (Transformer),20.85,0.89,4.04,Autoregressive Decoding
+Task 4 (RLHF),36.44,0.83,4.73,Policy Gradient Shift
