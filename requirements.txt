@@ -1,0 +1,6 @@
+torch
+miditok>=3.0.0
+pretty_midi
+numpy
+matplotlib
+tensorboard

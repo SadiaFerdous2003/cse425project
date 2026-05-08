@@ -1,0 +1,12 @@
+Participant ID,Model,Sample File,Score (1-5),Comments
+,Random,random_sample_1.mid,,
+,Random,random_sample_2.mid,,
+,Markov,markov_sample_1.mid,,
+,Markov,markov_sample_2.mid,,
+,LSTM AE,lstm_sample_1.mid,,
+,LSTM AE,lstm_sample_2.mid,,
+,VAE (Classical),classical_sample_1.mid,,
+,VAE (Jazz),jazz_sample_1.mid,,
+,VAE (Rock),rock_sample_1.mid,,
+,VAE (Pop),pop_sample_1.mid,,
+,VAE (Electronic),electronic_sample_1.mid,,

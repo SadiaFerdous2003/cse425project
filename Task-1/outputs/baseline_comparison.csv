@@ -1,0 +1,6 @@
+Model,Rhythm Diversity,Repetition Ratio,Pitch Similarity,Human Score (1-5),Generation Type
+Random Note Generator,0.004872867770137674,0.0,0.8450037026663034,1.2,Random
+Markov Chain,0.13480789633364543,0.0,0.9196455699240079,2.3,Markov Chain
+LSTM AE (Task 1),0.5818,0.0,1.2999,1.32,LSTM Autoencoder
+VAE (Task 2),0.8307,0.0074,1.1849,3.04,VAE (Conditional)
+Transformer (Task 3),0.75,0.005,N/A,4.5,Transformer (Autoregressive)
