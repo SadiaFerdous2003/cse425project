@@ -30,7 +30,8 @@ The pipeline is modular, allowing you to train, evaluate, and generate music at 
 - **Evaluation:** Rhythm diversity, repetition ratio, pitch similarity, and comparison to random/Markov baselines.
 - **Visualization:** Loss curves, piano-roll plots, latent space PCA.
 
-### Task 2: Genre-Conditioned LSTM Autoencoder
+
+### Task 2: Variational Autoencoder (VAE) Multi-Genre Generator
 
 **Goal:** Learn genre-aware latent representations and analyze genre separation.
 
